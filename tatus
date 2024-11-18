@@ -1,0 +1,45 @@
+[33md45fde7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Moved files to target_directory
+[33m7ba3f78[m crack  commit
+[33m3c48b1f[m Update md5.c and md5.h; Add crack.c
+[33m87ff011[m Add crack.c file
+[33m3b90059[m[33m ([m[1;32mmaster[m[33m)[m Add crack.c file
+[33mde00333[m Add crack.c  file
+[33mbaa0fe8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update to use EVP functions
+[33maf275d3[m Code for testing tryWord
+[33m55ad26d[m For testing
+[33m7150021[m Remove this file
+[33md955944[m Revised hash and dictionary files
+[33m81437fb[m Re-add rockyou1000.txt
+[33m849c7e0[m Remove rockyou files
+[33m1a8ede1[m Revised hashes files
+[33maffd887[m enable1.txt file
+[33m6e78327[m Added core files
+[33m4c52068[m Better selection of hashes
+[33m9e7d484[m Remove unneeded files
+[33mfae181f[m Add reminder to display number of hashes cracked.
+[33ma393d77[m Rename useWord to tryWord
+[33mc689949[m Hashes to try to crack
+[33m45bc335[m Now you try to match a dictionary word against the hashes.
+[33m12a46a7[m Error message goes to stderr. Cleanup of crackHash function.
+[33mfbe6e37[m Crack one hash a time
+[33me7a7a02[m no longer depends on md5.h
+[33m35615b9[m Removed comment to link to -l ssl
+[33m53ca84a[m Removed rule for rockyou1m.txt file
+[33m0389553[m Merge branch 'master' of https://bitbucket.org/profbbrown/crack2
+[33medf708d[m Removed Makefile CC and CFLAGS variables
+[33m9334c1a[m FILL_THIS_IN replaced with NULL
+[33m1c4d1fc[m Removed include sha256.h
+[33m5396d71[m Removed sha256 files
+[33m3bf89bc[m Removed rockyou1m.txt.gz
+[33me3e4553[m Merge branch 'master' of https://bitbucket.org/profbbrown/crack2
+[33m46f6115[m Added rockyou1m.txt
+[33m08ae1fc[m Added rockyou1m.txt.gz file
+[33m950db55[m Added comments for the NUMHASHES and ROCKYOU lines
+[33m4c7b8de[m Renamed readfile to read_dictionary. Read_dictionary now also returns the size.
+[33m4eddb73[m Removed -l ssl from link command
+[33m8825c9b[m include stdlib.h
+[33mbc16f51[m frees memory allocated by md5
+[33m28cb475[m make check
+[33m2265bf6[m Attempting to make before modifying Makefile fails
+[33mc2ac5f7[m Template for readfile function
+[33m65be72a[m Initial version for assignment
